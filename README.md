@@ -1,3 +1,15 @@
+# Sebastien Piette v1.0.0 - Applicant for the role of SA at Stripe APAC 
+7 April 2022 : This is an improved version of the original Demmo App (se version https://github.com/mattmitchell6/sa-takehome-project-node) used as an assignment for the candidate to the role of SA at Stripe. 
+The new improvement are including following added features : 
+- Integration with Stripe UI Elements 
+- Integration with Stripe Payments 
+- Integration with Stripe Webhooks listeners 
+
+For more informations, please refer to the Google Doc with all the details regarding the assignemnt : https://docs.google.com/document/d/1c0kRtgcGJufGLvgEmw5zgN9N0VI4U-rEDmve_gJY_eo/edit?usp=sharing 
+
+Contact : sebastien.piette@gmail.com 
+
+
 # Take home project
 This is a simple e-commerce application that a customer can use to purchase a book, but it's missing the payments functionality —  your goal is to integrate Stripe to get this application running!
 
