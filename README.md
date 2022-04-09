@@ -1,5 +1,5 @@
 # Sebastien Piette v1.0.0 - Applicant for the role of SA at Stripe APAC 
-7 April 2022 : This is an improved version of the original Demmo App (se version https://github.com/mattmitchell6/sa-takehome-project-node) used as an assignment for the candidate to the role of SA at Stripe. 
+7 April 2022 : This is an improved version of the original Demo App from Stripe (https://github.com/mattmitchell6/sa-takehome-project-node) used as an assignment for the candidate to the role of SA at Stripe. 
 The new improvement are including following added features : 
 - Integration with Stripe UI Elements 
 - Integration with Stripe Payments 
